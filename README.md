@@ -1,4 +1,4 @@
-# Silent Dictation
+# Unsaid
 
 **Type by mouthing words at your webcam, with no sound. Languages can mix inside one sentence.**
 
@@ -64,7 +64,7 @@ The small program around all this. It reads the key and puts the text at the cur
 ## Repository structure
 
 ```
-silent-dictation/
+unsaid/
 ├── README.md    project overview
 └── PLAN.md      goal, numbers, steps and open questions
 ```
@@ -97,6 +97,6 @@ silent-dictation/
 
 ## License
 
-No license yet. The repo is private for now.
+No license yet.
 
 Public models and datasets have their own terms and some are non-commercial, so the project stays personal use until that is checked.
